@@ -65,7 +65,7 @@ The dashboard features:
 ---
 
 ### 🖼️ Dashboard Page
-![Overview]((/Image/Sales_Dashboard)
+![Overview]((/Image/Sales_Dashboard.png)
 )
 
 ---
