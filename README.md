@@ -64,6 +64,12 @@ The dashboard features:
 
 ---
 
+### 🖼️ Dashboard Page
+![Overview]((/Image/Sales_Dashboard)
+)
+
+---
+
 ### 📊 Key Metrics
 
 - Total Sales	$2,261,536.78
